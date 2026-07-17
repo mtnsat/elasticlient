@@ -40,6 +40,7 @@ class RandomUIntGenerator {
 class Client::Implementation {
     const std::vector<std::string> hostUrlList;
     cpr::Session session;
+    std::string authorization;
     uint32_t currentHostIndex, failCounter;
     RandomUIntGenerator uintGenerator;
 
@@ -115,6 +116,8 @@ class Client::Implementation {
     void visit(const ProxiesOption &);
     /// Set SSL options from given instance.
     void visit(const SSLOption &);
+    /// Set authorization options for a given instance.
+    void visit(const AuthorizationOption &);
 };
 
 
