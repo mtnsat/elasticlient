@@ -1,0 +1,5 @@
+<map id="elasticlient::Client::SSLOption::VerifyPeer" name="elasticlient::Client::SSLOption::VerifyPeer">
+<area shape="rect" id="Node000001" title="Flag whether to verify peer." alt="" coords="20,93,191,133"/>
+<area shape="rect" id="Node000002" href="$structelasticlient_1_1Client_1_1SSLOption_1_1SSLOptionType.html" title="Abstract base class for specific SSL options." alt="" coords="5,5,205,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,59,108,93,103,93,103,59"/>
+</map>

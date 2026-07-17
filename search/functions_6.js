@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['perform',['perform',['../classelasticlient_1_1Bulk.html#aa8f260e533d1c5fab025f38edbf3de9f',1,'elasticlient::Bulk']]],
-  ['performrequest',['performRequest',['../classelasticlient_1_1Client.html#a733f153717d5e8d8bfa8a92a4a1e4efa',1,'elasticlient::Client']]]
+  ['next_0',['next',['../classelasticlient_1_1Scroll.html#a16a483626ae3ffc543e5cbda11417750',1,'elasticlient::Scroll']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['elasticlient',['elasticlient',['../namespaceelasticlient.html',1,'']]]
+  ['elasticlient_0',['elasticlient',['../namespaceelasticlient.html',1,'']]]
 ];

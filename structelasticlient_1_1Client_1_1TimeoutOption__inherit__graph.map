@@ -1,0 +1,7 @@
+<map id="elasticlient::Client::TimeoutOption" name="elasticlient::Client::TimeoutOption">
+<area shape="rect" id="Node000001" title="The timeout [ms] setting for client connection." alt="" coords="15,196,155,236"/>
+<area shape="rect" id="Node000002" href="$structelasticlient_1_1Client_1_1ClientOptionValue.html" title=" " alt="" coords="5,93,164,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,162,87,196,82,196,82,162"/>
+<area shape="rect" id="Node000003" href="$structelasticlient_1_1Client_1_1ClientOption.html" title="Abstract class for various options passed to Client constructor." alt="" coords="15,5,155,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,59,87,93,82,93,82,59"/>
+</map>

@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['index',['index',['../classelasticlient_1_1Client.html#a45be35dbda7dbd2979eca65b1d5a52d5',1,'elasticlient::Client']]],
-  ['indexdocument',['indexDocument',['../classelasticlient_1_1SameIndexBulkData.html#a7d42bc337264f723626f81b9f8af7ecc',1,'elasticlient::SameIndexBulkData']]],
-  ['indexname',['indexName',['../classelasticlient_1_1IBulkData.html#a9fc8bf2fd6f69957128a0822d3e20e4c',1,'elasticlient::IBulkData::indexName()'],['../classelasticlient_1_1SameIndexBulkData.html#a849055b4f6b651f0f73c30fa0913c538',1,'elasticlient::SameIndexBulkData::indexName()']]],
-  ['init',['init',['../classelasticlient_1_1Scroll.html#adb226e8061654b0b0e45dbb41e673355',1,'elasticlient::Scroll']]]
+  ['get_0',['get',['../classelasticlient_1_1Client.html#ae1e62ca9501a512f8f90e0b426611715',1,'elasticlient::Client']]],
+  ['getclient_1',['getclient',['../classelasticlient_1_1Bulk.html#a5197f97829964d6421f13886e43a5945',1,'elasticlient::Bulk::getClient()'],['../classelasticlient_1_1Scroll.html#a6d2587f3df233dc94805e32bc1a473f8',1,'elasticlient::Scroll::getClient()']]],
+  ['geterrorcount_2',['getErrorCount',['../classelasticlient_1_1Bulk.html#a1ebf58c56f2475d4ecacdb84b9925448',1,'elasticlient::Bulk']]]
 ];

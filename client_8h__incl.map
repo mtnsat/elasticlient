@@ -1,2 +1,19 @@
-<map id="/home/travis/build/seznam/elasticlient/include/elasticlient/client.h" name="/home/travis/build/seznam/elasticlient/include/elasticlient/client.h">
+<map id="/home/runner/work/elasticlient/elasticlient/include/elasticlient/client.h" name="/home/runner/work/elasticlient/elasticlient/include/elasticlient/client.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="261,5,486,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,108,64,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,63,78,110,77,105,266,57"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="88,108,165,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="299,63,173,106,172,101,297,58"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="189,108,256,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="329,62,256,103,254,99,326,58"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="281,108,367,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="361,61,340,97,335,95,356,59"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="391,108,454,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="391,59,411,95,407,97,386,61"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="478,108,538,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="416,58,480,98,477,103,413,62"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="562,108,673,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="449,58,573,101,571,106,447,63"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="697,108,789,133"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="487,57,684,103,683,108,486,63"/>
 </map>

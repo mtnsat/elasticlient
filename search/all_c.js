@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['_7ebulk',['~Bulk',['../classelasticlient_1_1Bulk.html#af917ba369bcace00c1ae9c270fc79420',1,'elasticlient::Bulk']]]
+  ['optsetter_0',['optsetter',['../structelasticlient_1_1Client_1_1SSLOption.html#a17a820e0450a156614138506fe1e8432',1,'elasticlient::Client::SSLOption::optSetter(T &amp;&amp;t)'],['../structelasticlient_1_1Client_1_1SSLOption.html#af8c99c24c87bcef8aba522367d89f012',1,'elasticlient::Client::SSLOption::optSetter(T &amp;&amp;t, TRest &amp;&amp;... ts)']]]
 ];

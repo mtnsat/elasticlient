@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['updatedocument',['updateDocument',['../classelasticlient_1_1SameIndexBulkData.html#a406f481ed2242252d1306b7d708455a6',1,'elasticlient::SameIndexBulkData']]]
+  ['next_0',['next',['../classelasticlient_1_1Scroll.html#a16a483626ae3ffc543e5cbda11417750',1,'elasticlient::Scroll']]]
 ];

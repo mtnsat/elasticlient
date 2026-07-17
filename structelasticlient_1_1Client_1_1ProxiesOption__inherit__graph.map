@@ -1,0 +1,5 @@
+<map id="elasticlient::Client::ProxiesOption" name="elasticlient::Client::ProxiesOption">
+<area shape="rect" id="Node000001" title="Proxies option for client connection." alt="" coords="5,93,145,133"/>
+<area shape="rect" id="Node000002" href="$structelasticlient_1_1Client_1_1ClientOption.html" title="Abstract class for various options passed to Client constructor." alt="" coords="5,5,145,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,59,78,93,73,93,73,59"/>
+</map>

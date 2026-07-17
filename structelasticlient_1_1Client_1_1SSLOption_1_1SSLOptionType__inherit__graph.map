@@ -1,0 +1,13 @@
+<map id="elasticlient::Client::SSLOption::SSLOptionType" name="elasticlient::Client::SSLOption::SSLOptionType">
+<area shape="rect" id="Node000001" title="Abstract base class for specific SSL options." alt="" coords="5,133,205,173"/>
+<area shape="rect" id="Node000002" href="$structelasticlient_1_1Client_1_1SSLOption_1_1CaInfo.html" title="Path to the custom CA bundle." alt="" coords="265,5,412,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,123,194,89,252,55,279,43,281,48,255,60,197,93,146,127"/>
+<area shape="rect" id="Node000003" href="$structelasticlient_1_1Client_1_1SSLOption_1_1CertFile.html" title="Path to the certificate." alt="" coords="261,69,416,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,127,265,107,266,112,193,132"/>
+<area shape="rect" id="Node000004" href="$structelasticlient_1_1Client_1_1SSLOption_1_1KeyFile.html" title="Path to the certificate key file." alt="" coords="263,133,414,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="219,151,263,151,263,156,219,156"/>
+<area shape="rect" id="Node000005" href="$structelasticlient_1_1Client_1_1SSLOption_1_1VerifyHost.html" title="Flag whether to verify host." alt="" coords="253,197,424,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="193,174,266,195,265,200,191,180"/>
+<area shape="rect" id="Node000006" href="$structelasticlient_1_1Client_1_1SSLOption_1_1VerifyPeer.html" title="Flag whether to verify peer." alt="" coords="253,261,424,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="146,179,197,214,255,247,281,259,279,264,252,252,194,218,143,184"/>
+</map>
