@@ -123,6 +123,9 @@ void Client::SSLOption::VerifyPeer::accept(SSLOptionImplementation &impl) const 
     impl.visit(*this);
 }
 
+void Client::AuthorizationOption::accept(Implementation &impl) const {
+    impl.visit(*this);
+}
 
 Client::Client(const std::vector<std::string> &hostUrlList,
                std::int32_t timeout)
@@ -160,6 +163,9 @@ bool Client::Implementation::performRequestOnCurrentHost(Client::HTTPMethod meth
     const std::string entireUrl = hostUrlList[currentHostIndex] + urlPath;
     session.SetUrl(cpr::Url(entireUrl));
     cpr::Header header;
+    if (!authorization.empty()) {
+        header["Authorization"] = authorization;
+    }
     if (!body.empty()) {
         header["Content-Type"] = "application/json; charset=utf-8";
     }
@@ -326,6 +332,10 @@ void Client::SSLOption::SSLOptionImplementation::visit(const VerifyHost &opt) {
 
 void Client::SSLOption::SSLOptionImplementation::visit(const VerifyPeer &opt) {
     sslOptions.SetOption(cpr::ssl::VerifyPeer{opt.verify});
+}
+
+void Client::Implementation::visit(const AuthorizationOption &opt) {
+    authorization = opt.getValue();
 }
 
 
