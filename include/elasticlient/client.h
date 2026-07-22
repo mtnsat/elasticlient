@@ -194,8 +194,8 @@ class Client {
         }
     };
 
-    /// Options to setup authorization header applied to every request.
-    struct AuthorizationOption : public ClientOptionValue<std::string> {
+    /// Authorization option for client connection.
+    struct AuthorizationOption: public ClientOptionValue<std::string> {
         explicit AuthorizationOption(std::string authorization)
             : ClientOptionValue(std::move(authorization))
         {}

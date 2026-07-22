@@ -116,7 +116,7 @@ class Client::Implementation {
     void visit(const ProxiesOption &);
     /// Set SSL options from given instance.
     void visit(const SSLOption &);
-    /// Set authorization options for a given instance.
+    /// Set authorization from given instance.
     void visit(const AuthorizationOption &);
 };
 
