@@ -197,10 +197,8 @@ class Client {
     /// Authorization option for client connection.
     struct AuthorizationOption: public ClientOptionValue<std::string> {
         explicit AuthorizationOption(std::string authorization)
-            : ClientOptionValue(std::move(authorization))
-        {}
-
-    protected:
+            : ClientOptionValue(std::move(authorization)) {}
+      protected:
         void accept(Implementation &) const override;
     };
 
